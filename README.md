@@ -1,2 +1,4 @@
 # RNIdeas
-Ideas for the SHipIt using the React Native Technologies
+Ideas for the ShipIt using the React Native Technologies
+Lint Report submit via Mobile app
+RMM components
